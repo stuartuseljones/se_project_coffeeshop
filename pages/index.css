@@ -68,6 +68,7 @@ a {
   display: block;
   font-family: "Noto Serif", "times new roman", serif;
   font-style: italic;
+  font-weight: 400;
   font-size: 60px;
   line-height: 72px;
   color: #3f96f3;
