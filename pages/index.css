@@ -8,7 +8,7 @@
   background-color: #fff;
   background-image: url(../images/background_header.svg);
   background-position: center;
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-size: cover;
   box-sizing: border-box;
 }
