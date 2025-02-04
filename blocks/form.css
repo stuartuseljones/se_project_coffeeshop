@@ -1,4 +1,4 @@
-.form {
+.reservation__form {
   max-width: 385px;
   margin: 0 auto;
 }
@@ -16,6 +16,7 @@
   font-size: 20px;
   line-height: 30px;
   color: #838383;
+  max-width: 385px;
 }
 
 .form__label {
@@ -47,7 +48,7 @@
   line-height: 20px;
 }
 
-a.form__button:hover {
+.form__button:hover {
   background-color: #3f96f3;
   transition: background-color 1000ms linear;
 }

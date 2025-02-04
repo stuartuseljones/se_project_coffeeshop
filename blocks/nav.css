@@ -1,16 +1,16 @@
-a {
-  text-decoration: none;
-  color: black;
-}
-
 .nav {
   display: flex;
   justify-content: space-between;
 }
 
-a.nav__link:hover {
+.nav__link:hover {
   opacity: 50%;
   transition: ease-in-out;
+}
+
+.nav__link {
+  text-decoration: none;
+  color: black;
 }
 
 .nav__links {
