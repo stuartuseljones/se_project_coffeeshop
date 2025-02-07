@@ -5,6 +5,11 @@
   flex-direction: column;
   position: relative;
   background-color: #fff;
+  background-image: url(../images/background_header.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
 }
 .header__image {
   height: 568px;
