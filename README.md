@@ -39,7 +39,7 @@ This was my second project of the Software Engineering program at TripleTen. It 
 ![alt text](<images/sprint 2-4.png>)
 ![alt text](<images/sprint 2-5.png>)
 
-## Plan on improving the project
+## Plans to improve the project
 
 - Currently, no plans to update the project. But from what I just learned in JavaScript, I could utilize that to create a modal for the form. That would clean up the site and the code and make the space more efficient. I could also add a "Reviews" section as well. Even a feed of the coffee shop's social media posts to show current content or updates. Might be nicely done with a widget.
 
