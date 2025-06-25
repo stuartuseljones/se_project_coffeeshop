@@ -1,5 +1,7 @@
 # Project 2: Triple Peaks Coffee Shop
 
+https://stuartuseljones.github.io/se_project_coffeeshop/
+
 ## Overview
 
 - Intro
